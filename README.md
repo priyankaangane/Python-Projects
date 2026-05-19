@@ -1,5 +1,5 @@
 # Python Fundamentals
- **Description**: A structured day-by-day Python revision repository focused on building strong programming foundations for Machine Learning and AI Engineering.
+ >**Description**: A structured day-by-day Python revision repository focused on building strong programming foundations for Machine Learning and AI Engineering.
 
 ## 📅 Day 1 & Day 2 — Python Foundations (~7–8 Hours)
 
