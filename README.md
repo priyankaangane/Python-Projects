@@ -1,94 +1,68 @@
 # Python Fundamentals
  **Description**: A structured day-by-day Python revision repository focused on building strong programming foundations for Machine Learning and AI Engineering.
-# Day 1 — Python Foundations (~7–8 Hours)
 
-### Topics Covered
-- Variables
-- Data Types
-- Operators
-- Conditionals
-- Loops
-- Functions
-- Scope
+## 📅 Day 1 & Day 2 — Python Foundations (~7–8 Hours)
 
-### What I Studied
-- Python Interpreter, REPL, scripts vs notebooks
-- Variables, naming rules, dynamic typing
-- `type()` and `isinstance()`
-- Built-in data types:
-  - `int`
-  - `float`
-  - `str`
-  - `bool`
-  - `None`
-- Type coercion
-- Operators:
-  - Arithmetic
-  - Comparison
-  - Logical
-  - Identity (`is` / `is not`)
-  - Membership (`in` / `not in`)
-- Conditional statements:
-  - `if`
-  - `elif`
-  - `else`
-  - One-line ternary
-- Loops:
-  - `for`
-  - `while`
-  - `range()`
-  - `enumerate()`
-  - `zip()`
-  - `break`, `continue`, `pass`
-- Functions:
-  - `def`
-  - `return`
-  - Default arguments
-  - Keyword arguments
-  - Docstrings
-- Scope:
-  - LEGB Rule
-  - `global`
-  - `nonlocal`
-- `input()` / `print()`
-- f-strings and formatting
+| Section | Details |
+|---|---|
+| **Status** | ✅ Completed |
+| **Topics Covered** | Variables · Data Types · Operators · Conditionals · Loops · Functions · Scope |
 
-### Exercises Completed
-#### Easy
-- FizzBuzz with functions
-- Simple calculator with input validation
-- Celsius ↔ Fahrenheit converter
+---
 
-#### Medium
-- Multiplication table using nested loops
-- Prime number checker
-- Find all primes up to N
-- Number guessing game with hints
+### 📘 What I Studied
 
-#### Hard
-- Recursive Fibonacci with memoization
-- Simple ATM simulation
+| Category | Concepts |
+|---|---|
+| **Environment** | Python Interpreter, REPL, scripts vs notebooks |
+| **Variables** | Naming rules, dynamic typing, `type()`, `isinstance()` |
+| **Data Types** | `int`, `float`, `str`, `bool`, `None`, type coercion |
+| **Operators** | Arithmetic · Comparison · Logical · Identity (`is` / `is not`) · Membership (`in` / `not in`) |
+| **Conditionals** | `if` · `elif` · `else` · one-line ternary |
+| **Loops** | `for` · `while` · `range()` · `enumerate()` · `zip()` · `break` · `continue` · `pass` |
+| **Functions** | `def` · `return` · default arguments · keyword arguments · docstrings |
+| **Scope** | LEGB Rule · `global` · `nonlocal` |
+| **I/O & Formatting** | `input()` · `print()` · f-strings · string formatting |
 
-### Mini Project
-**CLI Password Generator**
-- User-defined password length
-- Optional digits and symbols
-- Random secure password generation
-- Used:
-  - `random` module
-  - loops
-  - `string.ascii_letters`
-  - `digits`
-  - `punctuation`
+---
 
-### AI Engineering Connection
-Python functions are the building blocks of machine learning pipelines. Concepts like functions, loops, and scope are essential for:
-- Data preprocessing
-- Feature engineering
-- Evaluation metrics
-- Model inference pipelines
-- Logging and reporting using formatted strings
+### 🏋️ Exercises Completed
 
-### Status
-✅ Day 1 Completed
-🔄 README will be updated daily as I complete new revision topics.
+| Difficulty | Exercise |
+|---|---|
+| 🟢 Easy | FizzBuzz with functions |
+| 🟢 Easy | Simple calculator with input validation |
+| 🟢 Easy | Celsius ↔ Fahrenheit converter |
+| 🟡 Medium | Multiplication table using nested loops |
+| 🟡 Medium | Prime number checker |
+| 🟡 Medium | Find all primes up to N |
+| 🟡 Medium | Number guessing game with hints |
+| 🔴 Hard | Recursive Fibonacci with memoization |
+| 🔴 Hard | Simple ATM simulation |
+
+---
+
+### 🛠️ Mini Project
+
+| Attribute | Details |
+|---|---|
+| **Project Name** | CLI Password Generator |
+| **Features** | User-defined password length · optional digits and symbols · random secure password generation |
+| **Modules & Concepts Used** | `random` module · loops · `string.ascii_letters` · `digits` · `punctuation` |
+
+---
+
+### 🤖 AI Engineering Connection
+
+| Concept | Application in AI/ML |
+|---|---|
+| **Functions & Scope** | Building blocks of machine learning pipelines |
+| **Loops** | Iterating over datasets, batches, and training steps |
+| **Conditionals** | Branching logic in data preprocessing and model evaluation |
+| **Functions** | Data preprocessing, feature engineering, evaluation metrics |
+| **Loops + Functions** | Model inference pipelines |
+| **f-strings & Formatting** | Logging and reporting during training and evaluation |
+
+---
+
+> 🔄 README will be updated daily as new revision topics are completed.
