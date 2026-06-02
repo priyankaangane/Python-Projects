@@ -126,6 +126,5 @@
 
 ---
 
-> 🔄 README will be updated daily as new revision topics are completed.
 
 > 🔄 README will be updated daily as new revision topics are completed.
